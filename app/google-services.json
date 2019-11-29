@@ -1,0 +1,48 @@
+{
+  "project_info": {
+    "project_number": "620665238849",
+    "firebase_url": "https://nata-todolist.firebaseio.com",
+    "project_id": "nata-todolist",
+    "storage_bucket": "nata-todolist.appspot.com"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:620665238849:android:a18935cea520cb96d39dc0",
+        "android_client_info": {
+          "package_name": "com.example.nata_todolist"
+        }
+      },
+      "oauth_client": [
+        {
+          "client_id": "620665238849-j7ob8loui21ijj2es46lau86qrll9ol6.apps.googleusercontent.com",
+          "client_type": 1,
+          "android_info": {
+            "package_name": "com.example.nata_todolist",
+            "certificate_hash": "e04b09d27a72b15db77ab0124f49d00998c4ab16"
+          }
+        },
+        {
+          "client_id": "620665238849-8hamq8mr33r5jfgk1cgv0bqvcl6egf1v.apps.googleusercontent.com",
+          "client_type": 3
+        }
+      ],
+      "api_key": [
+        {
+          "current_key": "AIzaSyAH2wgohdjKyNLe38k0GcD6MiqwZexlG7g"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": [
+            {
+              "client_id": "620665238849-8hamq8mr33r5jfgk1cgv0bqvcl6egf1v.apps.googleusercontent.com",
+              "client_type": 3
+            }
+          ]
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}

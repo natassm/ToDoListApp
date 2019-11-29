@@ -1,0 +1,7 @@
+<resources>
+    <string name="app_name">Nata-ToDoList</string>
+    <string name="to_do_list">To Do List</string>
+    <string name="be_productive">Be Productive!</string>
+    <string name="no_tasks">No More Task</string>
+    <string name="create_new_tasks">Create New Task</string>
+</resources>
